@@ -1,0 +1,9 @@
+
+
+2048 PYTHON TERMINAL EDITION
+MAXWELL GERBER SPRING 2015
+
+(N)ew Game
+(S)tart Saved Game
+(V)iew High Scores
+(X) Close
